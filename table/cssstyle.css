@@ -31,6 +31,6 @@ td{
     text-align: center;
 }
 
-.hover {
-    background: red;
+tbody td:hover {
+    background: yellow;
 }
